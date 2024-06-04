@@ -23,12 +23,12 @@
         "OWNER-NAME": {
             "description": "put Your name herd",
             "required": true,
-            "value": "Vajira"      
+            "value": "Earl"      
         },
         "OWNER_NUMBER": {
             "description": "put your number here",
             "required": true,
-            "value": "94719199757"
+            "value": "601173139757"
         },
         "IMAGE": {
             "description": "Put bot image url here",
