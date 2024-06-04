@@ -9,10 +9,10 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": "put session id here"
+            "value": "VAJIRA-MD=ad11zb6D#OwFOjCqVEB9VvPTRYBydUfijsAGTLy9fZtT6pid9eEo"
         },
         "PREFIX": {
-            "description": "put prefix here",
+            "description": "",
             "required": true,
             "value": "."      
         },
